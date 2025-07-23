@@ -30,7 +30,7 @@
   "homepage": "https://github.com/Gugun09/google-contact-saver#readme",
   "files": [
     "bin/",
-	"src/"
+	"src/",
     "index.js",
 	"tes.js",
     "README.md"
