@@ -23,8 +23,8 @@ npx google-contact-saver login
 
 ## 🧑‍💻 Cara Pakai
 ```js
-const { simpanKontak } = require('google-contact-saver');
-await simpanKontak({ nama: 'Joko Widodo', nomor: '081234567890' });
+import { simpanKontak } from 'google-contact-saver';
+await simpanKontak({ nama: 'Gugun', nomor: '081234567890' });
 ```
 
 ## 🔧 Konfigurasi Path (opsional)
