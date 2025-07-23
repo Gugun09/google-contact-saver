@@ -1,0 +1,21 @@
+# Source yang tidak dibutuhkan
+node_modules/
+.vscode/
+test/
+tests/
+examples/
+logs/
+*.log
+
+# Token & kredensial
+token.json
+google-credentials.json
+.env
+
+# Config/development-only files
+package-lock.json
+.DS_Store
+Thumbs.db
+README-dev.md
+.nyc_output/
+coverage/

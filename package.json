@@ -1,0 +1,42 @@
+{
+  "name": "google-contact-saver",
+  "version": "1.0.0",
+  "description": "Simpan nomor WhatsApp ke Google Kontak secara otomatis dari bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "bin": {
+    "google-contact-saver": "./bin/login.js"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "whatsapp",
+    "google",
+    "contacts",
+    "saver",
+    "bot",
+    "automation"
+  ],
+  "author": "Gugun09",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gugun09/google-contact-saver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gugun09/google-contact-saver/issues"
+  },
+  "homepage": "https://github.com/Gugun09/google-contact-saver#readme",
+  "files": [
+    "bin/",
+	"src/"
+    "index.js",
+	"tes.js",
+    "README.md"
+  ],
+  "dependencies": {
+    "googleapis": "^118.0.0",
+    "open": "^9.1.0"
+  }
+}

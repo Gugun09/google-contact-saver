@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Credential & token (penting!)
+google-credentials.json
+token.json
+
+# VSCode & OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Env
+.env
